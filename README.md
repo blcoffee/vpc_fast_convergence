@@ -1,5 +1,5 @@
 # vPC Fast Convergence
-
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/blcoffee/vpc_fast_convergence) [![Run in Cisco Cloud IDE](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-runable-icon.svg)](https://developer.cisco.com/codeexchange/devenv/blcoffee/vpc_fast_convergence/)
 ## Description
 The `vpc_fast_convergence.py` script is designed to introduce a delay in bringing up the VPC (Virtual Port Channel) on Cisco Nexus 9000 switches running NX-OS. This script is useful in scenarios where you want to ensure that certain conditions are met before the VPC is fully operational. 
 
